@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3ED85C09-55AF-471A-9C87-BD64CABE9ECF}"
+	ProjectSection(SolutionItems) = preProject
+		escolha.js = escolha.js
+		estrutura-para.js = estrutura-para.js
+		if-else.js = if-else.js
+		index.html = index.html
+		nome numero.js = nome numero.js
+		while.js = while.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F7301E2-E230-4F6B-8863-01CCAE94E6A7}
+	EndGlobalSection
+EndGlobal
